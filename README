@@ -1,7 +1,7 @@
- 4 MVC Example 
+<h2> extjs 4 MVC Example</h2> 
 This  is a simple Example using extjs 4 MVC. This example demonstrates one way to filter a Chart(Pie) using the store vs the built in legend. This example was built for learning, so feel free to fork to improve.
 
-h2 Extjs 4 with Grails Integration
+<h2> Extjs 4 with Grails Integration</h2>
 Coming Soon
 
 
