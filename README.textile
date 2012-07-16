@@ -1,3 +1,6 @@
 h2. Extjs 4 MVC Example with Chart filtering
 
-This  is a simple Example using extjs 4 MVC. This example demonstrates one way to filter a Chart(Pie) using the store vs the built in legend. This example was built for learning, so feel free to fork to improve.
+This  is a simple Example using extjs 4 MVC. This example demonstrates one way to filter a Chart(Pie) using the store vs the built in legend. This example was built for learning, so feel free to fork to improve. 
+
+You can view an Example by visiting the following "site":http://extjs4chartfilter.cloudfoundry.com/.
+

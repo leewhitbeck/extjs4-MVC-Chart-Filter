@@ -54,11 +54,17 @@ Ext.define('MVC.controller.Main', {
         var myfilter = new Ext.util.Filter({
             filterFn: function(item) {
                 var searchTerm = item.data.place;
+                var passed = false
                 for (i=0; i<filters.length; i++)
                 {
-                    return searchTerm === filters[i]
+                    if (searchTerm === filters[i]) {
+                        passed = true;
+                        
+                    }
                 }      
                
+                return passed;
+ 
             }
         });
         mystore.filter(myfilter);
